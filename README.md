@@ -1,2 +1,2 @@
 # tz-papers
-A list of system papers on ARM TrustZone
+A list of system papers using/about ARM TrustZone
